@@ -33,7 +33,7 @@ VERSION="1"
 MODEL_PATH_0="gpt-4-1106-preview"
 MODEL_PATH_1="cyberagent/calm2-7b-chat"
 ```
-3. By executing the following command, inference by LLM and evaluation of the inference results will be conducted. After execution, you can check the scores at ```output/{task}/all_scores.csv```. It takes X hour to execute.
+3. By executing the following command, inference by LLM and evaluation of the inference results will be conducted. After execution, you can check the scores at ```output/{task}/all_scores.csv```. It takes several hours to execute the evaluation for each model.
 ```
 make run
 ```
