@@ -1,5 +1,5 @@
 # LCTG Bench: LLM Controlled Text Generation Benchmark
-The LCTG Bench was constructed to measure the controllability of Japanese LLMs in terms of how well they comply with constraints such as character count keywords in instructions.
+The LCTG Bench has been built to measure the controllability of Japanese LLMs in terms of how well they comply with constraints such as character count keywords in instructions.
 
 
 ## Task/Datasets
@@ -7,7 +7,9 @@ The LCTG Bench consists of three text generation tasks: **Summarization**, **Adv
 
 All data sets consist of test data only.
 
-The Pros & Cons Generation task was created after writing the Japanese paper.
+The Pros & Cons Generation task has been built after writing the Japanese paper.
+
+LCTG Bench has been constructed in collaboration with AI Shift Inc., CyberAgent Inc. and Okazaki Lab at Tokyo Institute of Technology.
 
 | Task                   | Dataset     | Format | Character Count | Keyword | Prohibihited word |
 |------------------------|-------------|--------|-----------------|---------|-------------------|
